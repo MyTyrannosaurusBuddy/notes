@@ -1,4 +1,4 @@
-# 魅族固件解包，提取apk
+# 魅族20pro固件解包，提取apk
 1、下载固件，https://flyme.cn/firmware.html  
 2、从update.zip当中解压出payload.bin  
 3、解包，python payload_dumper.py --out path_to_output payload.bin，https://github.com/vm03/payload_dumper  
